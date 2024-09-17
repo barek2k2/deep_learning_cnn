@@ -1,3 +1,4 @@
+### Built 13 CNN with 3 fully connected layer makes 16 layers. Trained with 25 epoch where the model shows around 82% accuracy. After training, provided an image of a cat and the model correctly predicted it as cat!
 1. `git clone git@github.com:barek2k2/deep_learning_cnn.git`
 2. `cd deep_learning_cnn`
 3. `python3 -m pip install -r requirements.txt`
