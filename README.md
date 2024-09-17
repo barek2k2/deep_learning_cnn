@@ -3,3 +3,5 @@
 2. `cd deep_learning_cnn`
 3. `python3 -m pip install -r requirements.txt`
 4. `python3 code_vgg_paper_cifar10.py`
+
+The model uses CIFAR dataset with 10 classes of `['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']`. Also the model uses Adam optimizer(optimization algorithm) through learning rate 0.0001
